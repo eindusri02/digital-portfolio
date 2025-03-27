@@ -1,0 +1,11 @@
+Personal Details 
+
+Name         : E.Indusri
+Date of Birth: 02/08/2006
+Gender       : Female 
+
+
+Education
+
+Department   : BCA
+University   : Bharathidasan University
